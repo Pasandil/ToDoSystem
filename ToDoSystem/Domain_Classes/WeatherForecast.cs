@@ -1,4 +1,4 @@
-namespace ToDoSystem
+namespace ToDoSystem.Domain_Classes
 {
     public class WeatherForecast
     {
